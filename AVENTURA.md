@@ -1,6 +1,6 @@
 # Modo Aventura
 
-El ***Modo Aventura*** de ***Minecraft*** es en este sentido una modalidad de juego con un objetivo específico, que es precisamente poder ofrecer al ***jugador*** una experiencia más guiada y más centrada en la exploración y en la narrativa dentro del universo de Minecraft. Se trata de una modalidad de juego que se incorporó a la versión 1.3, ideada en especial para la creación de y el disfrute de mapas personalizados (aventuras). El ***Modo Aventura*** no es el ***Modo Supervivencia*** ni el ***Modo Creativo***, dado que en este modo se imponen unas reglas más restrictivas, de manera que el ***jugador*** esté obligado a cumplor una serie de normas dentro del mundo creado con un objetivo modal específico. 
+El ***Modo Aventura*** de ***Minecraft*** es en este sentido una modalidad de juego con un objetivo específico, que es precisamente poder ofrecer al ***jugador*** una experiencia más guiada y más centrada en la exploración y en la narrativa dentro del universo de Minecraft. Se trata de una modalidad de juego que se incorporó a la versión 1.3, ideada en especial para la creación de y el disfrute de mapas personalizados (aventuras). El ***Modo Aventura*** no es el ***Modo Supervivencia*** ni el ***Modo Creativo***, dado que en este modo se imponen unas reglas más restrictivas, de manera que el ***jugador*** esté obligado a cumplir una serie de normas dentro del mundo creado con un objetivo modal específico. 
 
 ## Características 
 
@@ -21,7 +21,7 @@ El ***Modo Aventura*** en ***Minecraft*** es una opción de juego bastante disti
 ## Función del Modo Aventura
 
 El ***Modo Aventura*** se diferencia de los demás modos principalmente en la poca capacidad de los jugadores para interactuar con los bloques, tal y como se ha citado, pero también con elementos narrativos que el creador de mapas pueda añadir como diálogos, historias o misiones. Los jugadores suelen estar restringidos en la capacidad de destrozar bloques, por lo cual el objetivo va más hacia la exploración y la resolución de enigmas que en crear y destruir de manera libre. 
-Cuando cuando un jugador entra en un mundo en ***Modo Aventura***, este mundo suele tener un diseño que lleva a que el jugador realice tareas específicas dentro de un contexto más restringido y determinado, o que incluya la resolución de puzzles, la búsqueda de objetos y la lucha contra enemigos. El creador del mapa puede hacer uso del sistema de comandos de Minecraft para diseñar mecánicas de juegos particulares y reglas especiales, y confeccionar aventuras particulares y altamente interactivas.
+Cuando cuando un jugador entra en un mundo en ***Modo Aventura***, este mundo suele tener un diseño que lleva a que el jugador realice tareas específicas dentro de un contexto más restringido y determinado, o que incluya la resolución de rompecabezas, la búsqueda de objetos y la lucha contra enemigos. El creador del mapa puede hacer uso del sistema de comandos de Minecraft para diseñar mecánicas de juegos particulares y reglas especiales, y confeccionar aventuras particulares y altamente interactivas.
 
 ## Puntos clave para su uso
 
@@ -34,7 +34,7 @@ Los autores de los mapas de Aventura pueden echar mano de los comandos de ***Min
 ### Eventos de Juego
 los mapas de ***Aventura*** suelen tener lugar con eventos predefinidos como, por ejemplo, la activación de un mecanismo de Redstone en el momento que el jugador llegue a un lugar específico o el envío de una oleada de enemigos una vez se entre a una zona delimitada. Estos eventos hacen que las interacciones de los juegos de Aventura sean mucho más controladas y envolventes.
 
-Esto es clave porque para la mayoria de creaciones de mundos para los jugadores, hace que no puedan mover nada el mapa, respetando solo las cuestiones que maneja el mundo a solo los jugadores invitados.
+Esto es clave porque para la mayoría de creaciones de mundos para los jugadores, hace que no puedan mover nada el mapa, respetando solo las cuestiones que maneja el mundo a solo los jugadores invitados.
 
 El ***Modo Aventura*** es ideal para la creación de mapas personalizados diseñados para ofrecer una experiencia más guiada y estructurada:
 
