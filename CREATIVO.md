@@ -4,16 +4,16 @@ El ***Modo Creativo*** de ***Minecraft*** está considerado por muchos como la m
 
 ## Características
 
-1. **Acceso ilimitado a recursos**
+1. **Acceso ilimitado a recursos:**
 En el ***Modo Creativo***, los jugadores tienen acceso a todos los bloques y objetos del juego de forma ilimitada. No es necesario recolectar materiales, pues los elementos se encuentran directamente en el inventario. De este modo, el jugador se contempla de pleno para la construcción y la creación de lo que se quiera sin tener que preocuparse por la obtención de recursos. Los bloques y objetos se muestran en diferentes pestañas dentro del inventario, lo que permite un acceso rápido.
 
-2. **Vuelo libre**
+2. **Vuelo libre:**
 Una de las características más marcadas que encontramos en el ***Modo Creativo*** es el vuelo. El ***jugador*** puede subir y navegar por el mundo a su ritmo, por lo que es más fácil construir construcciones complejas en el aire o poder explorar lugares de difícil acceso. ***El vuelo*** permite una mayor libertad de movimiento y agilidad en la experiencia de juego, algo que es especialmente útil para la creación de grandes construcciones o paisajes sin tener que enfrentarse a los obstáculos que pueda presentarnos el terreno.
 
-3. **Invulnerabilidad**
+3. **Invulnerabilidad:**
 En el ***Modo Creativo***, el ***jugador*** es completamente invulnerable al daño. No se puede morir por caídas, ataques de enemigos ni por otras fuentes de daño. Esto elimina la necesidad de gestionar la salud y poder disfrutar de la experiencia sin miedo a encontrarse con peligros externos en el entorno, dando lugar a una experiencia más relajada, más orientada a la creatividad. También se puede optar por ignorar la alimentación, lo que hace que el ***jugador*** pueda concentrarse absolutamente en el diseño y la creación.
 
-4. **Modificación del mundo**
+4. **Modificación del mundo:**
 Los jugadores en el modo ***Creativo*** son capaces de colocar y destruir bloques sin límites. Pueden modificar el terreno a su gusto, elaborar paisajes, estructuras, redstone, o incluso modificar completamente el mundo que los rodea, adaptándolo a sus necesidades. También pueden construir mecanismos complejos con redstone, sin límites de recursos y sin límites de tiempo.
 
 5. **Acceso a todos los bloques y elementos del juego:** A diferencia de otros modos, el Modo Creativo otorga a los jugadores acceso completo a todos los bloques, ítems y recursos de ***Minecraft***, incluidos los más difíciles de obtener en el ***Modo Supervivencia***, como bloques de obsidiana o materiales raros como el diamante. También incluye elementos especiales como los bloques de comando, que permiten ejecutar funciones avanzadas de redstone o modificar aspectos del juego mediante comandos.
